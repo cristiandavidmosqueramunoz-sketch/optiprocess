@@ -1,0 +1,86 @@
+2026-05-28 08:45:03 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 08:45:42 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 08:45:42 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 08:45:42 | WARNING  | passlib.handlers.bcrypt:622 | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Users\LENOVO\Downloads\OptiProcess\backend\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-28 08:46:24 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 08:46:24 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 08:46:24 | WARNING  | passlib.handlers.bcrypt:622 | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Users\LENOVO\Downloads\OptiProcess\backend\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-28 08:46:59 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 08:46:59 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 08:46:59 | WARNING  | passlib.handlers.bcrypt:622 | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "D:\Users\LENOVO\Downloads\OptiProcess\backend\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2026-05-28 08:47:00 | INFO     | app.services.auth_service:135 | Usuario administrador por defecto creado: admin@optiprocess.com / Admin2024!
+2026-05-28 08:47:00 | INFO     | app.main:78 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 08:47:00 | INFO     | app.main:79 |    Docs: http://localhost:8000/api/docs
+2026-05-28 08:59:54 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 09:06:34 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 09:06:34 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 09:06:34 | INFO     | app.main:78 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 09:06:34 | INFO     | app.main:79 |    Docs: http://localhost:8000/api/docs
+2026-05-28 09:06:50 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 09:11:44 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 09:11:44 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 09:11:44 | INFO     | app.main:78 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 09:11:44 | INFO     | app.main:79 |    Docs: http://localhost:8000/api/docs
+2026-05-28 09:53:41 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 09:53:41 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 09:53:41 | INFO     | app.main:78 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 09:53:41 | INFO     | app.main:79 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:08:46 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 10:08:46 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 10:08:46 | INFO     | app.main:78 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 10:08:46 | INFO     | app.main:79 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:09:21 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:09:32 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:11:53 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 10:11:53 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 10:11:53 | INFO     | app.main:78 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 10:11:53 | INFO     | app.main:79 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:15:47 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:15:57 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:16:07 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:16:22 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:16:27 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:18:23 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:18:27 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:18:31 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:19:24 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:20:26 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:25:05 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:27:11 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:28:22 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 10:28:22 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 10:28:22 | INFO     | app.main:79 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 10:28:22 | INFO     | app.main:80 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:28:22 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:32:37 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:33:57 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 10:33:57 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 10:33:57 | INFO     | app.main:79 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 10:33:57 | INFO     | app.main:80 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:34:16 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:35:29 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 10:35:29 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 10:35:29 | INFO     | app.main:79 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 10:35:29 | INFO     | app.main:80 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:36:18 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:51:40 | INFO     | app.services.auth_service:72 | Login exitoso: admin@optiprocess.com
+2026-05-28 10:56:46 | INFO     | app.core.logging_config:44 | Sistema de logging inicializado - Nivel: INFO
+2026-05-28 10:56:46 | INFO     | app.database:44 | Tablas de base de datos creadas/verificadas correctamente
+2026-05-28 10:56:46 | INFO     | app.main:79 | 🚀 OptiProcess 1.0.0 iniciado correctamente
+2026-05-28 10:56:46 | INFO     | app.main:80 |    Docs: http://localhost:8000/api/docs
+2026-05-28 10:58:29 | INFO     | app.services.statistical.phase1_engine:139 | Fase I: Proceso estabilizado en iteración 1
